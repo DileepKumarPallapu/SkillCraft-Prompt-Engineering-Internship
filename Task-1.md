@@ -1,3 +1,7 @@
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130458" src="https://github.com/user-attachments/assets/2f685e20-c1aa-4268-95dd-ac08aa3957c8" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130431" src="https://github.com/user-attachments/assets/4ccc43ac-8a2e-46fa-a00d-0b098338e994" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130213" src="https://github.com/user-attachments/assets/d09e7a1b-5e46-44d7-8ba1-83028dc11f1c" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130136" src="https://github.com/user-attachments/assets/69457d6b-cf54-456c-9fae-6e5bd72cd7b4" />
 # Task 1 - Writing Better Prompts
 
 ## Objective
