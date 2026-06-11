@@ -68,7 +68,7 @@ Designed and tested a career guidance assistant named CareerBot for engineering 
 **Dileep Kumar Pallapu**
 
 LinkedIn:
-https://www.linkedin.com/in/dileep-kumar-pallapu-16
+https://www.linkedin.com/in/dileep-kumar-pallapu
 
 GitHub:
 https://github.com/DileepKumarPallapu
