@@ -59,6 +59,9 @@ Budget: ₹25,000.
 
 Role-based prompting helped generate more creative and practical ideas. Providing a specific role and structured requirements improved the relevance and quality of the responses.
 
+<img width="1920" height="1020" alt="Screenshot 2026-06-11 153123" src="https://github.com/user-attachments/assets/f49efa09-174f-4adb-b018-c92692acd7a7" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-11 153153" src="https://github.com/user-attachments/assets/fadada0a-da55-432c-b4c2-b0fd1933d6ef" />
+
 ## Conclusion
 
 Creative prompting can be used to generate innovative ideas, business concepts, and content with greater detail and originality.
