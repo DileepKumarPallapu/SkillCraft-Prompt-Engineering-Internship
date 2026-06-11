@@ -1,7 +1,3 @@
-<img width="1920" height="1020" alt="Screenshot 2026-06-02 130458" src="https://github.com/user-attachments/assets/2f685e20-c1aa-4268-95dd-ac08aa3957c8" />
-<img width="1920" height="1020" alt="Screenshot 2026-06-02 130431" src="https://github.com/user-attachments/assets/4ccc43ac-8a2e-46fa-a00d-0b098338e994" />
-<img width="1920" height="1020" alt="Screenshot 2026-06-02 130213" src="https://github.com/user-attachments/assets/d09e7a1b-5e46-44d7-8ba1-83028dc11f1c" />
-<img width="1920" height="1020" alt="Screenshot 2026-06-02 130136" src="https://github.com/user-attachments/assets/69457d6b-cf54-456c-9fae-6e5bd72cd7b4" />
 # Task 1 - Writing Better Prompts
 
 ## Objective
@@ -66,7 +62,11 @@ A focused explanation about AI startups with examples and student-friendly langu
 
 Adding audience, format, and context to prompts significantly improves the quality and relevance of AI-generated responses.
 
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130136" src="https://github.com/user-attachments/assets/db4fd9d9-11d3-4fe3-b03f-cb79e62f42cf" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130213" src="https://github.com/user-attachments/assets/1374f81c-d43c-48e1-99b1-30bfd8362389" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130431" src="https://github.com/user-attachments/assets/aeb4dc48-30da-46da-b7fd-e0562acd74a1" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-02 130458" src="https://github.com/user-attachments/assets/0842e861-061d-4c6f-9b03-03b195221527" />
+
 ## Conclusion
 
 Prompt engineering helps users obtain more accurate, structured, and useful responses from AI systems.
-
