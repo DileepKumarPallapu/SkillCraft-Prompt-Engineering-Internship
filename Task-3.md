@@ -67,6 +67,10 @@ Output:
 
 This task demonstrated how AI can automate repetitive tasks by converting unstructured text into structured machine-readable data.
 
+<img width="1920" height="1020" alt="Screenshot 2026-06-11 160906" src="https://github.com/user-attachments/assets/bd211bdd-9c47-402c-91e0-53e2865c8c51" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-11 160928" src="https://github.com/user-attachments/assets/07f6ce67-c443-4845-bbad-445ed1f5dc5c" />
+<img width="1920" height="1020" alt="Screenshot 2026-06-11 161113" src="https://github.com/user-attachments/assets/3790669d-eecf-40b6-9454-06c5ffd4f28e" />
+
 ## Conclusion
 
 Prompt engineering can improve efficiency and reduce manual effort in data processing and automation workflows.
